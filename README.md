@@ -1,1 +1,1 @@
-#LPIC Thema 5 Paketmanagement
+# Strategy AI - Notes

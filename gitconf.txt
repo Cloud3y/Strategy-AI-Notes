@@ -1,0 +1,8 @@
+user.name=Cloud3y
+user.email=Claudia.Rupprich@t-systems.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:Cloud3y/LPIC1-Notes.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
