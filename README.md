@@ -4,12 +4,13 @@ Ziel: Nutzung von Microstrategy AI für Datenanalyse, NLQ, Dashboards und Automa
 
 ## Struktur
 
-- 01-Installation - Setup, Workspace, Login
-- 02-Workbench - Erste Datasets erstellen
-- 03-NLQ - Natuaral Language Query Befehle Beispiele
-- 04-Dashboards - Visualisierungen
+- 01-Create a dashboard page using Auto Dashboard
+- 02-Refine visualizations and dashboard pages
+- 03-Implement Best Practice 
+
 
 ## Ziele
-- Data Workflow automatisieren
-- KI-Abfragen strukturieren
-- Reproduzierbare Notizen
+1.	Automatically generating visualization content for an insightful analytics experience
+2.	Exploring and improving your AI-generated dashboard page
+3.	Best practices for designing pages with Auto Dashboard
+
